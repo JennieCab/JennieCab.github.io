@@ -52,18 +52,19 @@
   ],
   "work": [
     {
-      "company": "RevaComm",
-      "position": "Intern",
-      "website": "",
-      "startDate": "2023-05-31",
-      "endDate": "2023-08-04",
-      "summary": [
-        "- Collaborated with professionals in the IT and cybersecurity community.",
-         "- Worked in an agile environment to address various IT and cybersecurity organizational needs.",
-         "- Assisted with automation in Jira to improve workflows.", 
-         "- Supported projects such as the IT help desk and the implementation of RegScale (real-time governance, risk, and compliance platform).",
-         "- Conducted discovery of asset management platforms, such as RegScale and Jira Service Management.",
-         "- Provided documentation for system governance and architectural decision record.",
+	"company": "RevaComm",
+      	"position": "Intern",
+      	"website": "https://www.rvcm.com/",
+      	"startDate": "2023-05-31",
+	"endDate": "2023-08-04",
+	"summary": "",
+	"highlights": [
+        "Collaborated with professionals in the IT and cybersecurity community.",
+         "Worked in an agile environment to address various IT and cybersecurity organizational needs.",
+         "Assisted with automation in Jira to improve workflows.", 
+         "Supported projects such as the IT help desk and the implementation of RegScale (real-time governance, risk, and compliance platform).",
+         "Conducted discovery of asset management platforms, such as RegScale and Jira Service Management.",
+         "Provided documentation for system governance and architectural decision record.",
         ""
       ]
     },
@@ -73,7 +74,8 @@
       "website": "",
       "startDate": "2023-01",
       "endDate": "2023-05",
-      "summary": [
+	"summary": "", 
+      "highlights": [
         "Supported Naval Information Warfare Center’s (NIWC) mission by conducting research on malware analysis to enhance situational awareness in the cybersecurity field.", 
 	      "Attended sessions by senior-level and expert speakers and panels on a variety of cybersecurity topics ",
         ""
@@ -85,7 +87,8 @@
       "website": "",
       "startDate": "2022-08",
       "endDate": "2022-12",
-      "summary": [
+	"summary": "",
+      "highlights": [
         "Collaborated with professionals in the intelligence community",
         "Attended sessions by senior-level and expert speakers and panels on a variety of national security and intelligence topics",
         "Conducted research and provided analysis on intelligence topics",
@@ -98,7 +101,8 @@
       "website": "",
       "startDate": "2019-06-14",
       "endDate": "Present",
-      "summary": [
+	    "summary": "",
+      "highlights": [
         "Assist physician in surgical procedures, including excisions and biopsies", 
         "Record/Scribe patient medical notes",  
       	"Maintain sufficient stock of medical supplies through appropriate ordering and inventory management.", 
@@ -106,11 +110,9 @@
         "Obtain prior authorizations for prescriptions",
         ""
       ]
-    },
-  
-  
+    }, 
   ],
-  "Activities": [
+  "activities": [
     {
       "title": "Pi Gamma Mu",
       "date": "2022-02",
