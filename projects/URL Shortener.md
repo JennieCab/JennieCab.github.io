@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/url-shortener.avif
 title: "URL Shortener"
 date: 2023
 published: 
