@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jennie Parrott",
     "label": "Student",
-    "picture": "",
+    "picture": "https://github.com/JennieCab.png",
     "email": "jcaberto@hawaii.edu",
     "phone": "",
     "website": "https://JennieCab.github.io",
-    "summary": "I am studying for a B.A. in Economics and Computer Science at the University of Hawaii. I expect to graduate in Fall 2024.",
+    "summary": "I am studying for a B.A. in Economics and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JennieCab", "url": "http://github.com/JennieCab" },
