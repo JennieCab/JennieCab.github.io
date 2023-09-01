@@ -16,7 +16,7 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
+    { "name": "Cybersecurity" },
     { "name": "Data Analysis" },
     { "name": "Data Science" }
   ],
@@ -33,9 +33,18 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.A.",
-      "startDate": "2022-09-01",
+      "startDate": "2022-01-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,69 +52,74 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "RevaComm",
+      "position": "Intern",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
+      "startDate": "2023-05-31",
+      "endDate": "2023-08-04",
+      "summary": [
+        "Collaborated with professionals in the IT and cybersecurity community.",
+         "Worked in an agile environment to address various IT and cybersecurity organizational needs.",
+         "Assisted with automation in Jira to improve workflows.", 
+         "Supported projects such as the IT help desk and the implementation of RegScale (real-time governance, risk, and compliance platform).",
+         "Conducted discovery of asset management platforms, such as RegScale and Jira Service Management.",
+         "Provided documentation for system governance and architectural decision record.",
+        ""
+      ]
+    },
+      {
+      "company": "Adapt Forward",
+      "position": "Cybersecurity Intern",
+      "website": "",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "summary": [
+        "Supported Naval Information Warfare Center’s (NIWC) mission by conducting research on malware analysis to enhance situational awareness in the cybersecurity field.", 
+	      "Attended sessions by senior-level and expert speakers and panels on a variety of cybersecurity topics ",
+        ""
+      ]
+    },
+      {
+      "company": "U.S. INDOPACOM Mentoring Internship",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
+      "summary": [
+        "Collaborated with professionals in the intelligence community",
+        "Attended sessions by senior-level and expert speakers and panels on a variety of national security and intelligence topics",
+        "Conducted research and provided analysis on intelligence topics",
         ""
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Sato Dermatology",
+      "position": "Medical Assistant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
+      "startDate": "2019-06-14",
+      "endDate": "Present",
+      "summary": [
+        "Assist physician in surgical procedures, including excisions and biopsies", 
+        "Record/Scribe patient medical notes",  
+      	"Maintain sufficient stock of medical supplies through appropriate ordering and inventory management.", 
+	      "Manage the physician’s schedule through proper arrangement of patients’ appointments.", 	
+        "Obtain prior authorizations for prescriptions",
         ""
       ]
-    }
+    },
+  
+  
   ],
-  "volunteer": [
+  "Activities": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "title": "Pi Gamma Mu",
+      "date": "2022-02",
+      "summary": "International Honor Society in Social Sciences"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": " The National Society of Leadership and Success",
+      "date": "2021",
+      "summary": "Leadership honor society"
     }
   ],
   "references": [
