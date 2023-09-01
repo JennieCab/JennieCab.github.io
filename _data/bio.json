@@ -54,7 +54,7 @@
     {
 	"company": "RevaComm",
       	"position": "Intern",
-      	"website": "https://www.rvcm.com/",
+      	"website": "",
       	"startDate": "2023-05-31",
 	"endDate": "2023-08-04",
 	"summary": "",
@@ -64,8 +64,8 @@
          "Assisted with automation in Jira to improve workflows.", 
          "Supported projects such as the IT help desk and the implementation of RegScale (real-time governance, risk, and compliance platform).",
          "Conducted discovery of asset management platforms, such as RegScale and Jira Service Management.",
-         "Provided documentation for system governance and architectural decision record.",
-        ""
+         "Provided documentation for system governance and architectural decision record."
+        
       ]
     },
       {
@@ -77,8 +77,8 @@
 	"summary": "", 
       "highlights": [
         "Supported Naval Information Warfare Center’s (NIWC) mission by conducting research on malware analysis to enhance situational awareness in the cybersecurity field.", 
-	      "Attended sessions by senior-level and expert speakers and panels on a variety of cybersecurity topics ",
-        ""
+	      "Attended sessions by senior-level and expert speakers and panels on a variety of cybersecurity topics "
+        
       ]
     },
       {
@@ -91,8 +91,8 @@
       "highlights": [
         "Collaborated with professionals in the intelligence community",
         "Attended sessions by senior-level and expert speakers and panels on a variety of national security and intelligence topics",
-        "Conducted research and provided analysis on intelligence topics",
-        ""
+        "Conducted research and provided analysis on intelligence topics"
+        
       ]
     },
     {
@@ -107,12 +107,12 @@
         "Record/Scribe patient medical notes",  
       	"Maintain sufficient stock of medical supplies through appropriate ordering and inventory management.", 
 	      "Manage the physician’s schedule through proper arrangement of patients’ appointments.", 	
-        "Obtain prior authorizations for prescriptions",
-        ""
+        "Obtain prior authorizations for prescriptions"
+        
       ]
     }, 
   ],
-  "activities": [
+  "volunteer": [
     {
       "title": "Pi Gamma Mu",
       "date": "2022-02",
