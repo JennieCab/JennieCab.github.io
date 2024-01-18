@@ -1,3 +1,15 @@
+---
+layout: essays
+type: essays
+image: 
+title: "Introduction to JavaScript"
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-17
+published: true
+labels:
+summary: "Initial Impression of ICS 314"
+---
+
 My first programming language was Java, which initially challenged me. However, it provided a solid foundation for learning other programming languages. I see programming languages as tools in a toolbox. Each language is not inherently good or bad but serves as a tool for specific jobs. While programming languages can achieve the same goal, one language may be a more effective tool.
 
 The course ICS 314 at UH Manoa focuses on the programming language JavaScript. As a complete newbie to this programming language, I've found it to be beginner-friendly and am enjoying the journey thus far. JavaScript has advantages, including flexibility and versatility. From a software engineering perspective, this makes it a valuable addition to one's toolbox.
