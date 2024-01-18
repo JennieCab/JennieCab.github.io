@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: 
-title: "Introduction to JavaScript"
+title: "Initial Impression of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
