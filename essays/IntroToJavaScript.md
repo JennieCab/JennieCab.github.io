@@ -6,8 +6,7 @@ title: "Introduction to JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
-labels:
-summary: "Initial Impression of ICS 314"
+summary: "Initial Impression of ICS 314."
 ---
 
 My first programming language was Java, which initially challenged me. However, it provided a solid foundation for learning other programming languages. I see programming languages as tools in a toolbox. Each language is not inherently good or bad but serves as a tool for specific jobs. While programming languages can achieve the same goal, one language may be a more effective tool.
