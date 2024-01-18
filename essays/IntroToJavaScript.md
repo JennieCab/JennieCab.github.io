@@ -1,6 +1,6 @@
 ---
-layout: essays
-type: essays
+layout: essay
+type: essay
 image: 
 title: "Introduction to JavaScript"
 # All dates must be YYYY-MM-DD format!
