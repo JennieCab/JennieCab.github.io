@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JennieCab", "url": "http://github.com/JennieCab" },
-      { "network": "linkedin", "username": "jennie-parrott", "url": "www.linkedin.com/in/jennie-parrott" },
+      { "network": "linkedin", "username": "jennie-parrott", "url": "http://www.linkedin.com/in/jennie-parrott" },
       { "network": "twitter", "username": "", "url": "" },
       { "network": "instagram", "username": "", "url": "" }
     ]
