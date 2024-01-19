@@ -18,7 +18,7 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Data Analysis" },
-    { "name": "Data Science" }
+    { "name": "Intelligence Analysis" }
   ],
   "skills": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "macOS", "Microsoft Windows", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -51,6 +51,36 @@
     }
   ],
   "work": [
+	{
+	"company": "Lockheed Martin",
+      	"position": "Intern",
+      	"website": "",
+      	"startDate": "2023-09-25",
+	"endDate": "Present",
+	"summary": "",
+	"highlights": [
+	"Developed a capability readiness project highlighting use cases of systems and identifying system readiness levels, further enhancing organizational readiness and capabilities.",
+	"Reviewed user access control to maintain cybersecurity compliance for quarterly audits.",
+	"Conducted asset management and inventory on new equipment to support remote operations.",
+	"Conducted vulnerability scans, security content automation protocol (SCAP) scans, and security audits to maintain confidentiality, integrity, and availability of systems.", 
+	"Collaborated with professionals in the cybersecurity community to develop better workflows that improve daily operations.", 
+      ]
+    },
+    {
+	"company": "Hacking for Defense",
+      	"position": "Intern",
+      	"website": "",
+      	"startDate": "2023-08-21",
+	"endDate": "2023-12-05",
+	"summary": "",
+	"highlights": [
+	"For-credit University course consulting on information environment related problems for USARPAC Theater Information Advantage Detachment (TIAD).",
+	"Interview stakeholders, including open-source intelligence analysts and data scientists/engineers to gain information used to develop a tailored solution to address USARPAC TIAD problem set.",
+	"Identify key problems in existing tools that collect, analyze, and visualize data to understand the information environment to improve on current methodology and develop new analytical approaches.",
+	"Provide research and technological solutions to leverage underutilized media sources for data extraction, which enhanced understanding and analysis within Indo-Pacific information environment.",
+      ]
+    },
+	
     {
 	"company": "RevaComm",
       	"position": "Intern",
@@ -95,22 +125,7 @@
         
       ]
     },
-    {
-      "company": "Sato Dermatology",
-      "position": "Medical Assistant",
-      "website": "",
-      "startDate": "2019-06-14",
-      "endDate": "Present",
-	    "summary": "",
-      "highlights": [
-        "Assist physician in surgical procedures, including excisions and biopsies", 
-        "Record/Scribe patient medical notes",  
-      	"Maintain sufficient stock of medical supplies through appropriate ordering and inventory management.", 
-	      "Manage the physician’s schedule through proper arrangement of patients’ appointments.", 	
-        "Obtain prior authorizations for prescriptions"
-        
-      ]
-    }, 
+
   ],
   "volunteer": [
     {
