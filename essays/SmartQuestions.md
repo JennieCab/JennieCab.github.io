@@ -20,11 +20,11 @@ Effective communication is paramount in software engineering, and one crucial as
 ## Example 1: The Smart Way
 URL: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
-<div class="text-center p-4">
+
 <img width="500px" 
-     class="rounded float-start pe-4" 
+     class="rounded text-center pe-4" 
      src="../img/GoodExample.png" >
-</div>
+
 
 ### Summary
 In this example, a developer demonstrates the smart way of asking questions by adhering to the guidelines established by Eric Raymond. The question is clear, concise, and provides context, including relevant details such as the programming language and the specific issue encountered. The community's responses are constructive, addressing the problem systematically, offering insights, and providing solutions. This example exemplifies how asking a smart question on StackOverflow can lead to efficient and effective assistance from the community.
@@ -34,11 +34,11 @@ In this example, a developer demonstrates the smart way of asking questions by a
 ## Example 2: The Not So Smart Way
 URL: [SALE Entry Form](https://stackoverflow.com/questions/77884673/sale-entry-form)
 
-<div class="text-center p-4">
+
 <img width="700px" 
-     class="rounded float-start pe-4" 
+     class="rounded text-center pe-4" 
      src="../img/BadExample.png" >
-</div>
+
 
 ### Summary
 Conversely, the not-so-smart question showcases a developer failing to follow the principles set by Raymond. The submission lacked crucial information, research effort, and context for the issue. The request was for an entire program in SQL and C#, which is not the intended purpose of the forum. Consequently, the submission was downvoted, and the community did not respond. This example illustrates how the community will not support requests for an entire program.
