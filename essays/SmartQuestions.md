@@ -1,4 +1,4 @@
---
+---
 layout: essay
 type: essay
 title: "Smart Questions"
