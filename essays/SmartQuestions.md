@@ -18,15 +18,18 @@ labels:
 Effective communication is paramount in software engineering, and one crucial aspect of this skill is the ability to ask questions the "smart way," as outlined by Eric Raymond in his essay. This essay highlights the significance of asking smart questions on online public forums such as Stack Overflow with examples of following or not following Raymond's principles.
 
 ## Example 1: The Smart Way
-URL: [Why is processing a sorted array faster than processing an unsorted array?] (https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+URL: [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+
 <img width="200px" 
      class="rounded float-start pe-4" 
      src="../img/GoodExample.png" >
+
 ### Summary
 In this example, a developer demonstrates the smart way of asking questions by adhering to the guidelines established by Eric Raymond. The question is clear, concise, and provides context, including relevant details such as the programming language and the specific issue encountered. The community's responses are constructive, addressing the problem systematically, offering insights, and providing solutions. This example exemplifies how asking a smart question on StackOverflow can lead to efficient and effective assistance from the community.
 
 ## Example 2: The Not So Smart Way
 URL: [SALE Entry Form](https://stackoverflow.com/questions/77884673/sale-entry-form)
+
 <img width="200px" 
      class="rounded float-start pe-4" 
      src="../img/BadExample.png" >
