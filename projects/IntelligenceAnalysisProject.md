@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/UH-INDOPACOMlogo.png
 title: "Intelligence Analysis"
 date: 2022
 published: true
