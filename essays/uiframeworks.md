@@ -33,3 +33,12 @@ URL: [Etsy](https://www.etsy.com/)
 <img width="700px" 
      class="rounded text-center pe-4" 
      src="../img/Etsy.png" >
+
+## Example of a website that does not use Bootstrap
+### Tumblr
+
+URL: [Tumblr](https://www.tumblr.com/)
+
+<img width="700px" 
+     class="rounded text-center pe-4" 
+     src="../img/tumblr.png" >
