@@ -24,3 +24,10 @@ Ultimately, the choice between frameworks often boils down to project requiremen
 
 ## Conclusion
 Even though UI frameworks have a steep learning curve, the benefits they provide exceeds the initial difficulties. Building modern, responsive, and accessible online apps is made easier for developers with the help of frameworks like Bootstrap 5, which offers improved software engineering techniques and speedier development workflows. Adopting UI frameworks is a an essential part toward efficiency and innovation as we continue to navigate the dynamic field of web development.
+
+## Example of a website that uses Bootstrap
+### Etsy
+URL: [Etsy](https://www.etsy.com/)
+<img width="500px" 
+     class="rounded text-center pe-4" 
+     src="../img/Etsy.png" >
