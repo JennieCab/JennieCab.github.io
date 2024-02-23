@@ -27,7 +27,9 @@ Even though UI frameworks have a steep learning curve, the benefits they provide
 
 ## Example of a website that uses Bootstrap
 ### Etsy
+
 URL: [Etsy](https://www.etsy.com/)
-<img width="500px" 
+
+<img width="700px" 
      class="rounded text-center pe-4" 
      src="../img/Etsy.png" >
