@@ -9,6 +9,8 @@ published: true
 summary: "A reflection of web development topics that are practical in software engineering. "
 ---
 
+<img width="300px" class="rounded text-center" src="../img/SE.jpg" >
+
 # Introduction
 While the web development tools in this class provided a practical foundation, there are also broader software engineering concepts we explored. Agile project management, coding standards, and development environments are the three concepts that extend far beyond web applications. Whether in a software engineering role or another technical role, these concepts are common and can be applied to various tasks or projects. 
 
