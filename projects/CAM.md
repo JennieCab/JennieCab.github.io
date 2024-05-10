@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo.png
+image: img/SLD-Logo-white.svg
 title: "Clubs At Manoa"
 date: 2024
 published: true
