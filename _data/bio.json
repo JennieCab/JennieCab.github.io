@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Jennie Parrott",
+    "label": "Student",
+    "picture": "https://github.com/JennieCab.png",
+    "email": "jcaberto@hawaii.edu",
+    "phone": "",
+    "website": "https://JennieCab.github.io",
+    "summary": "I am studying for a B.A. in Economics and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "JennieCab", "url": "http://github.com/JennieCab" },
+      { "network": "linkedin", "username": "jennie-parrott", "url": "http://www.linkedin.com/in/jennie-parrott" },
+    
+    ]
+  },
+  "interests": [
+    { "name": "Cybersecurity" },
+    { "name": "Data Analysis" },
+    { "name": "Intelligence Analysis" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "PHP", "PERL", "R", "Bootstrap", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "macOS", "Microsoft Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "courses": [ "Security and Trust", "Software Engineering", "Product Design and Innovation" ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "courses": [ "Data Analysis and Visualization", "Econometrics", "International Macroeconomics" ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Economics",
+      "studyType": "A.A.",
+      "startDate": "2021-01-01",
+      "endDate": "2022-05-13",
+      "courses": [ ]
+    },
+  ],
+  "work": [
+	{
+	"company": "Lockheed Martin",
+      	"position": "Intern",
+      	"website": "",
+      	"startDate": "2023-09-25",
+	"endDate": "Present",
+	"summary": "",
+	"highlights": [
+	"Developed a capability readiness project highlighting use cases of systems and identifying system readiness levels, further enhancing organizational readiness and capabilities.",
+	"Reviewed user access control to maintain cybersecurity compliance for quarterly audits.",
+	"Conducted asset management and inventory on new equipment to support remote operations.",
+	"Conducted vulnerability scans, security content automation protocol (SCAP) scans, and security audits to maintain confidentiality, integrity, and availability of systems.", 
+	"Collaborated with professionals in the cybersecurity community to develop better workflows that improve daily operations.", 
+      ]
+    },
+    {
+	"company": "Hacking for Defense",
+      	"position": "Intern",
+      	"website": "",
+      	"startDate": "2023-08-21",
+	"endDate": "2023-12-05",
+	"summary": "",
+	"highlights": [
+	"For-credit University course consulting on information environment related problems for USARPAC Theater Information Advantage Detachment (TIAD).",
+	"Interview stakeholders, including open-source intelligence analysts and data scientists/engineers to gain information used to develop a tailored solution to address USARPAC TIAD problem set.",
+	"Identify key problems in existing tools that collect, analyze, and visualize data to understand the information environment to improve on current methodology and develop new analytical approaches.",
+	"Provide research and technological solutions to leverage underutilized media sources for data extraction, which enhanced understanding and analysis within Indo-Pacific information environment.",
+      ]
+    },
+	
+    {
+	"company": "RevaComm",
+      	"position": "Intern",
+      	"website": "",
+      	"startDate": "2023-05-31",
+	"endDate": "2023-08-04",
+	"summary": "",
+	"highlights": [
+        "Collaborated with professionals in the IT and cybersecurity community.",
+         "Worked in an agile environment to address various IT and cybersecurity organizational needs.",
+         "Assisted with automation in Jira to improve workflows.", 
+         "Supported projects such as the IT help desk and the implementation of RegScale (real-time governance, risk, and compliance platform).",
+         "Conducted discovery of asset management platforms, such as RegScale and Jira Service Management.",
+         "Provided documentation for system governance and architectural decision record."
+        
+      ]
+    },
+      {
+      "company": "Adapt Forward",
+      "position": "Cybersecurity Intern",
+      "website": "",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+	"summary": "", 
+      "highlights": [
+        "Supported Naval Information Warfare Center’s (NIWC) mission by conducting research on malware analysis to enhance situational awareness in the cybersecurity field.", 
+	      "Attended sessions by senior-level and expert speakers and panels on a variety of cybersecurity topics "
+        
+      ]
+    },
+      {
+      "company": "U.S. INDOPACOM Mentoring Internship",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
+	"summary": "",
+      "highlights": [
+        "Collaborated with professionals in the intelligence community",
+        "Attended sessions by senior-level and expert speakers and panels on a variety of national security and intelligence topics",
+        "Conducted research and provided analysis on intelligence topics"
+        
+      ]
+    },
+
+  ],
+  "volunteer": [
+    {
+      "organization": "Pi Gamma Mu",
+	    "website":"",
+	    "position": "Member",
+	    "startDate": "2022-02",
+	    "endDate":"",
+      "summary": "International Honor Society in Social Sciences"
+    },
+    {
+      "organization": "The National Society of Leadership and Success",
+	     "website":"",
+	    "position": "Member",
+      "startDate": "2021",
+	"endDate":"",
+      "summary": "Leadership honor society"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
