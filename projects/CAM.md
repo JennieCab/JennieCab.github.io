@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/.png
 title: "Clubs At Manoa"
 date: 2024
 published: true
@@ -22,13 +22,13 @@ The Club Hub application will provide a centralized directory for UH Manoa stude
 
 <div class="text-center p-4">
   <img width="500px" 
-       src="../img/.png" 
+       src="../img/Landing58.png" 
        class="img-thumbnail" >
   <img width="500px" 
-       src="../img/.png" 
+       src="../img/homepage.png" 
        class="img-thumbnail" >
   <img width="500px" 
-       src="../img/.png" 
+       src="../img/clubs.png" 
        class="img-thumbnail" >
 </div>
 
