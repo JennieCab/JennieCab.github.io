@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "R", "Python", "PHP", "PERL" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "PHP", "PERL", "R", "Bootstrap", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,22 +32,28 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Economics",
-      "studyType": "B.A.",
-      "startDate": "2022-01-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2022-01-01",
       "endDate": "Present",
-      "courses": [
-      ]
-    }
+      "courses": [ "Security and Trust", "Software Engineering", "Product Design and Innovation" ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "courses": [ "Data Analysis and Visualization", "Econometrics", "International Macroeconomics" ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Economics",
+      "studyType": "A.A.",
+      "startDate": "2022-05-13",
+      "endDate": "Present",
+      "courses": [ ]
+    },
   ],
   "work": [
 	{
