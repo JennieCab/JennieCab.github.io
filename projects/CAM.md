@@ -38,12 +38,12 @@ Clubs at Manoa provides a solid foundation toward achieving the desired solution
        class="img-thumbnail" >
 </div>
 
-## My Contributions
+### My Contributions
 In this group project, I ensured the completeness of information on the organization page for milestones 2 and 3 (M2, M3). Additionally, I helped create and maintain the project and team capacity boards on GitHub, which facilitated efficient task tracking and effort allocation. Beyond that, I took ownership of designing the landing and home pages and populating default data.
 
 My commitment extended beyond assigned tasks. I actively fostered collaboration by making myself available for discussions in and outside class. When we encountered challenges, I actively participated in troubleshooting and researching solutions. I'm also enthusiastic about contributing to the extra credit opportunity.
 
-## Lessons Learned
+### Lessons Learned
 This project provided valuable lessons beyond technical skills. I underestimated the importance of seemingly trivial tasks like communication and coordination. In hindsight, a preliminary discussion to establish a clear workflow would have significantly streamlined the process. The project also deepened my understanding of the software development lifecycle and the practical application of concepts learned earlier in the course.
 
 [Clubs At Manoa Team GitHub](https://clubs-at-manoa.github.io/)
