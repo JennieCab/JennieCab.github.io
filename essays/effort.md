@@ -9,6 +9,8 @@ published: true
 summary: "Project Effort Estimation and Tracking"
 ---
 
+<img width="300px" class="rounded text-center" src="../img/effort.jpg" >
+
 ## Making Effort Estimates: A Buffer for the Unknown 
 
 The Clubs At Manoa web application project with my group provided valuable insights into effort estimation and tracking for coding and non-coding tasks. Initially, I estimated effort hours by considering the maximum potential time someone might require, including leisurely execution and troubleshooting. This approach aimed to create a buffer for unforeseen challenges.
